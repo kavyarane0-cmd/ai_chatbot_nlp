@@ -1,4 +1,4 @@
-#AI Chatbot using NLP (Rule Based + Keyword Matching)
+AI Chatbot using NLP (Rule Based + Keyword Matching)
 
 ## 📌 Overview
 This project implements a simple AI chatbot using basic Natural Language Processing (NLP) techniques.  
